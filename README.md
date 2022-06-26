@@ -11,7 +11,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Jquery" src="https://img.shields.io/badge/-JQUERY-5900ff?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-116bba?style=flat-square&logo=nextjs&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-116bba?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-11baaa?style=flat-square&logo=express&logoColor=white" />
   <img alt="SocketIO" src="https://img.shields.io/badge/-Socket.Io-f1ba0f?style=flat-square&logo=socket.io&logoColor=white" />

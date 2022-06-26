@@ -30,6 +30,7 @@
   <img alt="jest" src="https://img.shields.io/badge/-JEST-ff00cd?style=flat-square&logo=jest&logoColor=white" />
   <img alt="gulp" src="https://img.shields.io/badge/-Gulp-39ff00?style=flat-square&logo=gulp&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-430098?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
 - 💼 any freelance work? do reach, [email](mailto:hamza.ikram.1120@gmail.com) :)

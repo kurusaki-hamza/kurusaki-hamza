@@ -1,8 +1,13 @@
+<p align="center">
 ### Hi 👋 I'm Hamza , I am a passionate self-taught full stack web developer from Morocco. my passion for web developement lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, and code quality of the things I build.
-
+</p>
+  
+<p align="center">
 **my social networks:**
+</p>
+<p align="center">
 <a href="https://web.facebook.com/profile.php?id=100081015793167" align="center">
-  <img align="left" alt="Hamza's Facebook" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/facebook.png" />
+  <img align="left" alt="Hamza's Facebook" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/facebook.svg" />
 </a>
 <a href="https://twitter.com/kurusaki_hamza/">
   <img align="left" alt="Hamza's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -10,6 +15,7 @@
 <a href="https://www.linkedin.com/in/hamza-ikram-25961b243/" align="center">
   <img align="left" alt="Hamza's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</p>
 
 **Languages and Tools:**
 <p align="center">
@@ -45,7 +51,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-f10f0f?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
-- 💼 any work needs to be done? contact me: hamza.ikram.1120@gmail.com :)
+- 💼 any work needs to be done? contact me: hamza.ikram.1120@gmail.com ;
 - 💬 ask me about anything, i am happy to help;
 <!--
 **kurusaki-hamza/kurusaki-hamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

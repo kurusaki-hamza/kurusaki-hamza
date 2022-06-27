@@ -8,7 +8,7 @@
 </p>
 <p align="center">
  <a href="https://web.facebook.com/profile.php?id=100081015793167" align="center">
-   <img alt="Hamza's Facebook" width="22px"  src="http://i.imgur.com/P3YfQoD.png" />
+   <img alt="Hamza's Facebook" width="22px"  color="white" src="https://cdn-icons-png.flaticon.com/128/21/21155.png" />
  </a>
  <a href="https://twitter.com/kurusaki_hamza/">
    <img alt="Hamza's Twitter" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />

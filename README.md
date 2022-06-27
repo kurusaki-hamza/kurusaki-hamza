@@ -1,5 +1,6 @@
 <p align="center">
-### Hi 👋 I'm Hamza , I am a passionate self-taught full stack web developer from Morocco. my passion for web developement lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, and code quality of the things I build.
+<strong> Hi 👋 I'm Hamza , I am a passionate self-taught full stack web developer from Morocco. my passion for web developement lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, and code quality of the things I build.
+</strong>
 </p>
   
 <p align="center">
@@ -7,13 +8,13 @@
 </p>
 <p align="center">
  <a href="https://web.facebook.com/profile.php?id=100081015793167" align="center">
-   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" x="0px" y="0px" width="22px" height="22px" viewBox="0 0 50 50" style="null" class="icon icons8-Facebook-Filled" >    <path d="M40,0H10C4.486,0,0,4.486,0,10v30c0,5.514,4.486,10,10,10h30c5.514,0,10-4.486,10-10V10C50,4.486,45.514,0,40,0z M39,17h-3 c-2.145,0-3,0.504-3,2v3h6l-1,6h-5v20h-7V28h-3v-6h3v-3c0-4.677,1.581-8,7-8c2.902,0,6,1,6,1V17z"></path></svg>
+   <img alt="Hamza's Facebook" style="background-color:blue;color:white" width="22px"  src="http://i.imgur.com/fep1WsG.png" />
  </a>
  <a href="https://twitter.com/kurusaki_hamza/">
-   <img align="left" alt="Hamza's Twitter" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+   <img alt="Hamza's Twitter" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
  </a>
  <a href="https://www.linkedin.com/in/hamza-ikram-25961b243/" align="center">
-   <img align="left" alt="Hamza's LinkedIN" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+   <img alt="Hamza's LinkedIN" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
 </p>
 

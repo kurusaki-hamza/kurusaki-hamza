@@ -22,9 +22,9 @@
 <strong>Languages and Tools:</strong>
 </p>
 <p align="center">
-  <img alt="html" src="https://img.shields.io/badge/-HTML-833412?style=flat-square&logo=html4&logoColor=white" />
+  <img alt="html4" src="https://img.shields.io/badge/-HTML4-833412?style=flat-square&logo=html4&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS-0ad9cc?style=flat-square&logo=css2&logoColor=white" />
+  <img alt="css2" src="https://img.shields.io/badge/-CSS2-0ad9cc?style=flat-square&logo=css2&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-0a69d9?style=flat-square&logo=css3&logoColor=white" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-BOOTSTRAP-ba1181?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -37,7 +37,7 @@
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-116bba?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="redux-toolkit" src="https://img.shields.io/badge/-ReduxToolkit-7913c9?style=flat-square&logo=redux.toolkit&logoColor=white" />
+  <img alt="redux-toolkit" src="https://img.shields.io/travis/reduxjs/redux-toolkit/master.svg?style=flat-square" />
 </p>
 <p align="center">
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />

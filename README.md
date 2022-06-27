@@ -37,6 +37,7 @@
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-116bba?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="redux-toolkit" src="https://img.shields.io/badge/-ReduxToolkit-7913c9?style=flat-square&logo=reduxtoolkit&logoColor=white" />
 </p>
 <p align="center">
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />

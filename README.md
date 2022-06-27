@@ -6,18 +6,20 @@
 **my social networks:**
 </p>
 <p align="center">
-<a href="https://web.facebook.com/profile.php?id=100081015793167" align="center">
-  <img align="left" alt="Hamza's Facebook" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/kurusaki_hamza/">
-  <img align="left" alt="Hamza's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/hamza-ikram-25961b243/" align="center">
-  <img align="left" alt="Hamza's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+ <a href="https://web.facebook.com/profile.php?id=100081015793167" align="center">
+   <img align="left" alt="Hamza's Facebook" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+ </a>
+ <a href="https://twitter.com/kurusaki_hamza/">
+   <img align="left" alt="Hamza's Twitter" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+ </a>
+ <a href="https://www.linkedin.com/in/hamza-ikram-25961b243/" align="center">
+   <img align="left" alt="Hamza's LinkedIN" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+ </a>
 </p>
 
+<p align="center">
 **Languages and Tools:**
+</p>
 <p align="center">
   <img alt="html" src="https://img.shields.io/badge/-HTML-833412?style=flat-square&logo=html4&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />

@@ -1,5 +1,5 @@
 <p align="center">
-<strong> Hi 👋 I'm Hamza , I am a passionate self-taught full stack web developer from Morocco. my passion for web developement lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, and code quality of the things I build.
+<strong> Hi 👋 I'm Hamza , I am a full stack web developer from Morocco, specializing in MERN Stack
 </strong>
 </p>
   

@@ -7,7 +7,7 @@
 <strong>my social networks:</strong>
 </p>
 <p align="center">
- <a href="https://web.facebook.com/profile.php?id=100081015793167" align="center">
+ <a href="https://www.facebook.com/profile.php?id=100084947066864" align="center">
    <img alt="Hamza's Facebook" width="22px"  color="white" src="https://cdn-icons-png.flaticon.com/128/21/21155.png" />
  </a>
  <a href="https://twitter.com/kurusaki_hamza/">
@@ -54,8 +54,12 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-f10f0f?style=flat-square&logo=postman&logoColor=white" />
 </p>
+<p align="center">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+</p>
 
-- 💼 any work needs to be done? contact me: hamza.ikram.1120@gmail.com ;
+- 💼 you can contact me here: hamza.ikram.1120@gmail.com ;
 - 💬 ask me about anything, i am happy to help;
 <!--
 **kurusaki-hamza/kurusaki-hamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

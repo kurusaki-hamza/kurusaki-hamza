@@ -35,6 +35,7 @@
   <img alt="Jquery" src="https://img.shields.io/badge/-JQUERY-5900ff?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-116bba?style=flat-square&logo=next.js&logoColor=white" />
+   <img alt="MUI" src="https://img.shields.io/badge/-MUI-2072d3?style=flat-square&logo=mui&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="redux-toolkit" src="https://img.shields.io/badge/-Redux_Toolkit-7913c9?style=flat-square&logo=redux-toolkit&logoColor=white" />

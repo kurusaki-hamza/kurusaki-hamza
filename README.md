@@ -45,6 +45,7 @@
   <img alt="SocketIO" src="https://img.shields.io/badge/-Socket.Io-f1ba0f?style=flat-square&logo=socket.io&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 <p align="center">

@@ -10,7 +10,7 @@
  <a href="https://www.facebook.com/profile.php?id=100084947066864" align="center">
    <img alt="Hamza's Facebook" width="22px"  color="white" src="https://cdn-icons-png.flaticon.com/128/21/21155.png" />
  </a>
- <a href="https://twitter.com/kurusaki_hamza/">
+ <a href="https://twitter.com/hamza_ik_1/">
    <img alt="Hamza's Twitter" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
  </a>
  <a href="https://www.linkedin.com/in/hamza-ikram-25961b243/" align="center">

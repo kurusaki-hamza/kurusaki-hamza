@@ -48,7 +48,7 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
 
-- 💼 you can contact me here: hamza.ikram.1120@gmail.com ;
+- 💼 you can contact me here: kurusakishinobi0@gmail.com ;
 - 💬 ask me about anything, i am happy to help;
 <!--
 **kurusaki-hamza/kurusaki-hamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
